@@ -8,7 +8,7 @@ Gruvbox theme for appchanx
 
 ### 1. Install appchanx (you can refer to here <https://zixaphir.github.io/appchan-x>)  
 
-The version above is very outdated and it will require some tweaks to get it working on both 4chan and 4channel. Feel free to use mine <https://github.com/zaibatsu-loli/appchanx-fix>
+The version above is very outdated and it will require some tweaks to get it working on both 4chan and 4channel due to captcha changes.
 
 ### 2. Import xxxx-settings.jsons
 
